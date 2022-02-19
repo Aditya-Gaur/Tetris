@@ -102,4 +102,3 @@ You can change the default color by editing -
 SELECTED_color = WHITE  # Change white with the rgb tuple of your color like (200, 200, 200)
 ```
 
-#### Video Demo: https://youtu.be/WKo7ALQHhec
