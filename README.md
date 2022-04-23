@@ -52,7 +52,7 @@ You can press Esc to return to the main menu.
 
 <img src="Screenshots/help.png" width="400" height="300">
 
-*[For Default settings]*
+*[For Default settings]* 
 
 You can - 
 - move a block left with the 'a' key
